@@ -4,6 +4,7 @@ import ReactDOM from "react-dom"
 
 
 import App from "./App"
+import TimeApp from "./TimeApp"
 
 
 function MyInfo() {
@@ -27,6 +28,7 @@ function MyInfo() {
       </ul>
 
       <App />
+      <TimeApp />
   </div>
 
   )
